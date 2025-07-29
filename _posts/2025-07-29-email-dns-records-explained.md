@@ -5,8 +5,27 @@ categories: [compile, architecture]
 tags: [backend, dns, email]
 image: /assets/img/posts/email-dns-records-explained-1.png
 description: >-
-  Master email DNS records: SPF, DKIM, DMARC, and MX. Prevent spoofing, secure your domain, and build customer trust with proper authentication. 
+  Master email DNS records: SPF, DKIM, DMARC, and MX. Prevent spoofing, secure your domain, and build customer trust with proper authentication.
+
+# Additional SEO Tags
+seo:
+  type: Article
+  date_modified: 2025-07-29
+  links: ["https://blog.aswinbenny.in/posts/email-dns-records-explained/"]
+
+# Keywords for better search targeting
+keywords: ["email DNS", "SPF records", "DKIM", "DMARC", "MX records", "email authentication", "domain security", "email spoofing prevention"]
+
+# Social sharing optimization
+og_image: /assets/img/posts/email-dns-records-explained-1.png
+og_description: "Complete guide to email DNS records: SPF, DKIM, DMARC, and MX records for domain security"
+
+
+# Content structure
+breadcrumbs: true
+toc: true
 ---
+
 
 
 

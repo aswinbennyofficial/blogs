@@ -1,3 +1,40 @@
+
+```
+---
+title: "Building a Bulk Email Sender in Go with HTML Support"
+date: 2025-07-29
+categories: [compile, architecture]
+tags: [golang, smtp, email, backend, tutorial]
+image: /assets/img/posts/golang-smtp-bulk-email-1.png
+redirect_from:
+  - /bulk-email-program-golang
+  - /bulk-email-program-golang/
+description: >-
+  Build a bulk email sender in Go with SMTP, HTML support, and custom reply-to. Complete tutorial with code examples and environment setup.
+
+# Additional SEO Tags
+seo:
+  type: Article
+  date_modified: 2025-07-29
+  links: ["https://blog.aswinbenny.in/posts/golang-smtp-bulk-email/"]
+
+# Tutorial-specific keywords
+keywords: ["golang tutorial", "go email sender", "SMTP golang", "bulk email", "HTML email", "go programming", "email automation", "golang SMTP"]
+
+# Social sharing
+og_image: /assets/img/posts/golang-smtp-bulk-email-1.png
+og_description: "Step-by-step tutorial: Build a bulk email sender in Go with SMTP and HTML support"
+
+
+# Content metadata
+breadcrumbs: true
+toc: true
+---
+```
+
+
+
+
 Here’s a **comprehensive markdown guide** with:
 
 1. 🏷️ **Tags Table**

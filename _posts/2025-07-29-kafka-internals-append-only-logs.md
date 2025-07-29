@@ -6,6 +6,23 @@ tags: [kafka, streaming, logs, backend, distributed-systems]
 image: /assets/img/posts/kafka-internals-append-only-logs-1.png
 description: >-
   Explore Apache Kafka's log-based architecture: topics, partitions, segments, and offsets. Learn how append-only logs enable high-throughput messaging.
+
+# Additional SEO Tags
+seo:
+  type: Article
+  date_modified: 2025-07-29
+  links: ["https://blog.aswinbenny.in/posts/kafka-internals-append-only-logs/"]
+
+# Kafka-specific keywords
+keywords: ["apache kafka", "kafka internals", "distributed systems", "event streaming", "message brokers", "append-only logs", "kafka architecture", "data streaming"]
+
+# Social sharing optimization
+og_image: /assets/img/posts/kafka-internals-append-only-logs-1.png
+og_description: "Deep dive into Apache Kafka's append-only log architecture with real-world examples"
+
+# Content structure
+breadcrumbs: true
+toc: true
 ---
 
 
