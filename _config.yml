@@ -228,3 +228,6 @@ jekyll-archives:
 
 plugins:
   - jekyll-redirect-from
+
+clarity:
+  project_id: "smdvaukzrr"
