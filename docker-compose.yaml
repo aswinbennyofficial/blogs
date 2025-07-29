@@ -6,8 +6,14 @@ services:
     container_name: jekyll-chirpy
     ports:
       - "4000:4000"
-      - "35729:35729"  # LiveReload port
+      - "35729:35729"
     volumes:
+      # Add :Z flag for SELinux context
+      - ./_posts:/srv/jekyll/_posts:Z
+      - ./_pages:/srv/jekyll/_pages:Z
+      - ./assets:/srv/jekyll/assets:Z
+      - ./_config_dev.yml:/srv/jekyll/_config.yml:Z
+      # Keep persistent volumes
       - jekyll_site:/srv/jekyll/_site
       - jekyll_cache:/srv/jekyll/.jekyll-cache
     environment:
