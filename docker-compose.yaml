@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  jekyll:
+    build: .
+    container_name: jekyll-chirpy
+    ports:
+      - "4000:4000"
+      - "35729:35729"  # LiveReload port
+    volumes:
+      - jekyll_site:/srv/jekyll/_site
+      - jekyll_cache:/srv/jekyll/.jekyll-cache
+    environment:
+      - JEKYLL_ENV=development
+    restart: unless-stopped
+
+volumes:
+  jekyll_site:
+    driver: local
+  jekyll_cache:
+    driver: local

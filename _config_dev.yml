@@ -14,16 +14,16 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aswin Benny | Blog # the main title
+title: Aswin Benny | Compile & Memoir # the main title
 
-tagline: Tech insights and tutorials # it will display as the subtitle
+tagline: Tech, systems, and life in text. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal blog of Aswin Benny covering technology, programming, and development insights.
+ The personal blog of Aswin Benny - writing on systems design, open-source software, backend engineering, and reflections on life and learning.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://blog.aswinbenny.in"
+url: "http://localhost:4000"
 
 github:
   username: aswinbennyofficial # change to your GitHub username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://blog.aswinbenny.in/assets/img/avatar.jpeg'
+avatar: 'http://localhost:4000/assets/img/avatar.jpeg'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
