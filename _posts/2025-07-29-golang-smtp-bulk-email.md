@@ -4,13 +4,19 @@ date: 2025-07-29
 categories: [compile, architecture]
 tags: [golang, smtp, email, backend, tutorial]
 image: /assets/img/posts/golang-smtp-bulk-email-1.png
+redirect_from:
+  - /bulk-email-program-golang
+  - /bulk-email-program-golang/
+description: >-
+  Step-by-step tutorial to build a bulk email sender in Go using SMTP with HTML support 
+  and custom reply-to addresses. Complete with environment variable management and 
+  practical code examples for sending marketing emails and notifications.
 ---
 
 
 
 In this tutorial, we'll build a Go program that sends bulk emails through SMTP with custom reply-to addresses and rich HTML content. We'll use Go's built-in `net/smtp` package alongside `github.com/joho/godotenv` for managing environment variables securely.
 
-> This blog is part of my Golang series. [Click here to explore the complete series](https://blog.aswinbenny.in/series/golang).
 
 You can find the complete source code in my [GitHub repository](https://github.com/aswinbennyofficial/Golang/tree/main/project/11_Golang_SMTP_mailSend).
 
