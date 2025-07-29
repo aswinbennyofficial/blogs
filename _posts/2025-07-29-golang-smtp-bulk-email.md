@@ -1,5 +1,5 @@
 ---
-title: "Building a Bulk Email Sender in Go with HTML Support"
+title: "Sending Bulk Emails with Golang using SMTP"
 date: 2025-07-29
 categories: [compile, architecture]
 tags: [golang, smtp, email, backend, tutorial]
