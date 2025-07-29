@@ -3,7 +3,7 @@ title: "Sending Bulk Emails with Golang using SMTP"
 date: 2025-07-29
 categories: [compile, programming]
 tags: [golang, smtp, email, backend, tutorial]
-image: /assets/img/posts/golang-smtp-bulk-email-1.png
+image: /assets/img/posts/golang-smtp-bulk-email/1.png
 redirect_from:
   - /bulk-email-program-golang
   - /bulk-email-program-golang/
@@ -20,7 +20,7 @@ seo:
 keywords: ["golang tutorial", "go email sender", "SMTP golang", "bulk email", "HTML email", "go programming", "email automation", "golang SMTP"]
 
 # Social sharing
-og_image: /assets/img/posts/golang-smtp-bulk-email-1.png
+og_image: /assets/img/posts/golang-smtp-bulk-email/1.png
 og_description: "Step-by-step tutorial: Build a bulk email sender in Go with SMTP and HTML support"
 
 
