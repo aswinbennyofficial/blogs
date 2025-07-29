@@ -8,9 +8,7 @@ redirect_from:
   - /bulk-email-program-golang
   - /bulk-email-program-golang/
 description: >-
-  Step-by-step tutorial to build a bulk email sender in Go using SMTP with HTML support 
-  and custom reply-to addresses. Complete with environment variable management and 
-  practical code examples for sending marketing emails and notifications.
+  Build a bulk email sender in Go with SMTP, HTML support, and custom reply-to. Complete tutorial with code examples and environment setup
 ---
 
 
