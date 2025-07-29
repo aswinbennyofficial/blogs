@@ -30,6 +30,9 @@ toc: true
 ## 🗃️ Objects
 
 Git uses three main types of objects to store and manage your code:
+- Commit
+- Tree
+- Blobs
 
 ![Git Internals Overview](/assets/img/posts/git-internals-explained/2.png)
 > Red: commit object, Blue: tree object, Grey: blob object
